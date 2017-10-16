@@ -2,4 +2,4 @@
 *.hi
 *.o
 TESTS_HERE
-Q1.hs
+Qs.hs
